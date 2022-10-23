@@ -9,7 +9,7 @@
 
 ### Results
 * Based on Theater Outcomes by Launch Date we can make two conclusions. Most successful months to launch campaigns are May and June, these two months where overall best to achieve set goals, on the other side end of September throughout the rest of the year number of failed campaigns raises. Based on the data it is not advised to start a fundraising campaign going into year end.
-* Looking at the data, focusing on the Outcomes based on Goal we can conclude that the most successful  pledged goals where those ones that had goal amount to  5000 dollars, or if we want to be specific up to 1000 dollars. Based on this action, fundraising focus must be on the campaign that will support this goal in overall sum pledged and number of launched campings.
-* 
+* Looking at the data, focusing on the Outcomes based on Goal we can conclude that the most successful  pledged goals where those ones that had goal amount to  5000 dollars, or if we want to be specific up to 1000 dollars. Based on this data, fundraising focus must be on the campaign that will support this goal in overall sum pledged and number of launched campings.
+* Limitations of this data set must be put into context of the time when data was obtained and years of consistent data gathering. If we look at subcategory theatre, we have data span of 3 years, in order to get a more accurate picture we can suggest to look other subcategories that have longer data history. Goals must be also consistent with the overall state of the economy in the period when data analysis was preformed.
 
 
